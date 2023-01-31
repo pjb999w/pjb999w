@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jamie</h1>
+<h1 align="center">Hi 👋, I'm PJ</h1>
 <h3 align="center">I'm beginning my journey as a frontend developer from Ireland</h3>
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS and Python**
